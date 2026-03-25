@@ -4,8 +4,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web de primer año.
 
 ## Sobre mi
 
-java 
-```
+``` java 
 import java.util.ArrayList;
 public class App {
   public static void main(String[] args) throws Exception {
