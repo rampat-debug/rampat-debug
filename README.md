@@ -2,7 +2,7 @@
 
 Soy estudiante de Desarrollo de Aplicaciones Web de primer año.
 
-## Sobre mi
+## Lo que estoy aprendiendo actualmente
 
 ``` java 
 import java.util.ArrayList;
