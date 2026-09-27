@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rampat-debug.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argiepatao)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:argiepatao227@gmail.com)
 
 Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) con conocimientos en Java, MySQL y desarrollo front-end. Me apasiona el diseño de interfaces visualmente atractivas, la escritura de código limpio y actualmente busco unas prácticas profesionales en el sector IT.
 
