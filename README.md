@@ -10,8 +10,6 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) con conocimientos 
 
 ## 💻 Mi Stack Tecnológico
 
-[![Visitas](https://komarev.com/ghpvc/?username=rampat-debug&color=blueviolet&style=for-the-badge)](https://rampat-debug.github.io)
-
 ### Lo que he aprendido (1º DAW)
 
 ```java
