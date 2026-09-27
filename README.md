@@ -10,9 +10,7 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) con conocimientos 
 
 ## 💻 Mi Stack Tecnológico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rampat-debug&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+[![Visitas](https://komarev.com/ghpvc/?username=rampat-debug&color=blueviolet&style=for-the-badge)](https://rampat-debug.github.io)
 
 ### Lo que he aprendido (1º DAW)
 
