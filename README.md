@@ -10,6 +10,10 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) con conocimientos 
 
 ## 💻 Mi Stack Tecnológico
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rampat-debug&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 ### Lo que he aprendido (1º DAW)
 
 ```java
@@ -34,6 +38,6 @@ public class HabilidadesBase {
 const estudiante = {
   nombre: "Argie Ralph Patao",
   curso: "2º DAW",
-  stack: ["JavaScript", "Spring Boot", "PHP", "Python"]
+  stack: ["JavaScript", "PHP", "Python"]
 };
 ```
